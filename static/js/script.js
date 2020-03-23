@@ -1,6 +1,6 @@
-// $('.profile_div').click(function () {
-//     switchRecognition();
-// });
+ $('.profile_div').click(function () {
+     switchRecognition();
+ });
 
 var transcription;
 
